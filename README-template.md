@@ -16,7 +16,11 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Vijayalakshmi-cb/fem-qr-code)
+<<<<<<< HEAD
 - Live Site URL: [Live Website](https://Vijayalakshmi-cb.github.io/fem-qr-code/)
+=======
+- Live Site URL: [Live Website](https://Vijayalakshmi-cb.github.io/fem-qr-code)
+>>>>>>> 511ac71 (Initial commit)
 
 ## My process
 
