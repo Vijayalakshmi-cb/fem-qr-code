@@ -20,14 +20,14 @@
 
 .qrcode p {
     font-size: 15px;
-    padding: 0px 12px;
+    padding: 0px 35px;
     color: hsl(218, 44%, 22%);
 }
 
 .qrcode {
-    width: 200px;
+    width: 300px;
     background-color: white;
     text-align: center;
-    padding: 9px 0px;
+    padding: 5px 15px;
     border-radius: 10px;
 }
